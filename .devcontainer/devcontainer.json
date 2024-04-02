@@ -1,0 +1,10 @@
+{
+    "name": "Rust",
+    "image": "rust",
+    "customizations": {
+        "vscode": {
+            "extensions": ["rust-lang.rust"]
+        }
+    },
+    "runArgs": ["-u", "vscode"]
+}
